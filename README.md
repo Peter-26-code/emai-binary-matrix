@@ -1,2 +1,5 @@
 # emai-binary-matrix
 An open-source Python engine simulating the traditional binary matrix system of the Emai tribe.
+1. Project Summary (Elevator Pitch)
+This project will develop an open-source, digital simulation and algorithmic code library based on the traditional "wager" artifact of the Emai tribe in Edo State, Nigeria. The physical system functions as a modular computational asset: it consists of four distinct columns (A, B, C, D) connected by a structural thread connector, where each individual column holds an ordered set of four binary units (zeros and ones) representing one of 16 named baseline configurations. When the system is cast, it evaluates 8 specific directional pairings using cross-column permutation logic. Starting from the right (DA, DC, CB, BA) and then from the left (AD, AB, BC, CD), these pairs generate 8 combined outcomes that resolve into a comprehensive universal state space of 256 unique meanings. We will translate this material logic into a functional Python framework, establishing a decentralized mathematical model that bridges indigenous African knowledge systems with modern bits-and-bytes computer science.
+
